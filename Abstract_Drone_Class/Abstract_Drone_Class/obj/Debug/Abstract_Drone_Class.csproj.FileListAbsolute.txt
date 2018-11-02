@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\Abstract_Drone_Class\Abstract_Drone_Class\Abstract_Drone_Class\obj\Debug\Abstract_Drone_Class.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\Abstract_Drone_Class\Abstract_Drone_Class\Abstract_Drone_Class\obj\Debug\Abstract_Drone_Class.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\Abstract_Drone_Class\Abstract_Drone_Class\Abstract_Drone_Class\bin\Debug\Abstract_Drone_Class.exe.config
+C:\Users\rtoles\Desktop\Abstract_Drone_Class\Abstract_Drone_Class\Abstract_Drone_Class\bin\Debug\Abstract_Drone_Class.exe
+C:\Users\rtoles\Desktop\Abstract_Drone_Class\Abstract_Drone_Class\Abstract_Drone_Class\bin\Debug\Abstract_Drone_Class.pdb
+C:\Users\rtoles\Desktop\Abstract_Drone_Class\Abstract_Drone_Class\Abstract_Drone_Class\obj\Debug\Abstract_Drone_Class.exe
+C:\Users\rtoles\Desktop\Abstract_Drone_Class\Abstract_Drone_Class\Abstract_Drone_Class\obj\Debug\Abstract_Drone_Class.pdb
